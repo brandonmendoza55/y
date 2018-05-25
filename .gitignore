@@ -1,0 +1,12 @@
+.vscode/
+launch.json
+settings.json
+include/
+bin/
+lib/
+lib64
+share/
+src/
+pyvenv.cfg
+.directory
+
