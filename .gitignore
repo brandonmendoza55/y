@@ -6,7 +6,7 @@ bin/
 lib/
 lib64
 share/
-src/
+
 pyvenv.cfg
 .directory
 
